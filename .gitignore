@@ -74,3 +74,4 @@ MTPs-Main-Container.txt
 
 # Maven pomless build generated files
 .polyglot.build.properties
+/.metadata/
